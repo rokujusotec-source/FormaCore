@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
+
+# Backup
+backup/
+
+# Temp
+temp/
+tmp/
+
+# Log
+*.log
+
+# Binary
+*.bin
+*.bak
+
+# KV
+*.cache
+
+# VT5
+*.runtime
